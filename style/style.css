@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(244, 238, 233);
+}
+
+.col-md-6 {
+    /* height: 500px; */
+}
+
+
+/* image styling */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border-radius: 50px;
+    opacity: 0.8;
+}
+/* image styling */
+
+
+
+/* NAVBAR styling */
+.navbar-collapse {
+    justify-content: flex-end;
+    font-size: 24px;
+}
+
+.navbar-brand {
+    color: rgb(232, 184, 93);
+    font-size: 24px;
+}
+
+.nav-link {
+    color: rgb(205, 145, 35);
+}
+
+.navbar-brand:hover {
+    color: orange;
+    
+}
+.nav-link:hover {
+    color: orange;
+}
+
+.navbar {
+    margin: 0px;
+    background: rgb(60, 62, 104);
+    margin: 0px;  
+    padding: 10px;
+}
+/* NAVBAR styling */
+
+
+
+/* Portfolio Home Image/Main Section styling */
+.main {
+    padding: 10px;
+}
+
+.left{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+  }
+
+.right{
+    /* margin: auto; */
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+  }
+  
+.title1 {
+    font-size:18px;
+    margin: auto;
+    text-align: justify;
+    color:  rgb(60, 62, 104);
+    
+}
+.title2 {
+    margin: auto;
+    text-align: justify;
+    color: rgb(60, 62, 104);
+    
+}
+.title3 {
+    margin: auto;
+    text-align: justify;
+    color: gray;
+}
+/* Portfolio Home Image/Main Section styling */
